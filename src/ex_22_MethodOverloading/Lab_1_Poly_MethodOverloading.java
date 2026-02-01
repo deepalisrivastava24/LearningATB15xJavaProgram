@@ -1,4 +1,4 @@
-package MethodOverloading;
+package ex_22_MethodOverloading;
 
 public class Lab_1_Poly_MethodOverloading {
     public static void main(String[] args) {

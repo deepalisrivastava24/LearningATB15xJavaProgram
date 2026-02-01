@@ -1,6 +1,4 @@
-package methodoverriding;
-
-import java.sql.SQLOutput;
+package ex_23_methodoverriding;
 
 public class Lab1_Poly_MethodOverriding {
     public static void main(String[] args) {
