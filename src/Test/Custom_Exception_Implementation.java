@@ -18,6 +18,7 @@ public class Custom_Exception_Implementation {
 
 class InvalidAgeException extends Exception {
     public InvalidAgeException(String message) {
+
         super(message);
     }
 }
