@@ -1,4 +1,4 @@
-package ex_32_Collection_List;
+package ex_32_Collection_ArrayList;
 
 import java.util.ArrayList;
 import java.util.Iterator;
